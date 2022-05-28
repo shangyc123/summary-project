@@ -21,3 +21,8 @@ spring:
         min-idle: 20
 mybatis:
   mapper-locations: classpath:mapping/*.xml
+#rocketmq◊‘∂®“Â≈‰÷√
+#mq:
+#  nameserver:
+#    addr: 47.111.24.105:9876
+#  topicname: stock
