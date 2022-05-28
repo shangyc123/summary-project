@@ -64,6 +64,51 @@ springboot--->springcloud
 
 
 
-
-
 二、总结资料上传
+
+## 2022.05.28
+
+### 实现InitializingBean作用
+
+InitializingBean的作用是Bean注入到Spring容器且初始化后，执行特定业务化的操作。
+
+Spring允许容器中的Bean，在Bean初始化完成后或者Bean销毁前，执行特定业务化的操作，
+
+常用的实现方式有以下三种：
+
+- 通过实现InitializingBean/DisposableBean接口来处理初始化后/销毁前的操作；
+
+- 通过标签的init-method/destroy-method属性处理初始化后/销毁前的操作；
+
+- 在指定方法上加上@PostConstruct或@PreDestroy注解来处理初始化后/销毁前的操作。
+
+  
+
+```
+实现InitializingBean作用
+
+InitializingBean的作用是Bean注入到Spring容器且初始化后，执行特定业务化的操作。
+
+Spring允许容器中的Bean，在Bean初始化完成后或者Bean销毁前，执行特定业务化的操作，
+
+常用的实现方式有以下三种：
+
+- 通过实现InitializingBean/DisposableBean接口来处理初始化后/销毁前的操作；
+- 通过标签的init-method/destroy-method属性处理初始化后/销毁前的操作；
+- 在指定方法上加上@PostConstruct或@PreDestroy注解来处理初始化后/销毁前的操作。
+
+@RequestMapping()可选参数
+
+1、 value， method；
+value： 指定请求的实际地址，指定的地址可以是URI Template 模式（后面将会说明）；
+method： 指定请求的method类型， GET、POST、PUT、DELETE等；
+
+2、 consumes，produces；
+consumes： 指定处理请求的提交内容类型（Content-Type），例如application/json, text/html;
+produces: 指定返回的内容类型，仅当request请求头中的(Accept)类型中包含该指定类型才返回；
+
+3、 params，headers；
+params： 指定request中必须包含某些参数值是，才让该方法处理。
+headers： 指定request中必须包含某些指定的header值，才能让该方法处理请求。
+```
+

@@ -1,0 +1,23 @@
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    name: seckill
+    url: jdbc:mysql://47.111.24.105:3306/seckill?useUnicode=true&characterEncoding=UTF-8&useSSL=true
+    username: root
+    password: 123456
+  mvc:
+    throw-exception-if-no-handler-found: true
+  resources:
+    add-mappings: false
+  redis:
+    host: 47.111.24.105
+    port: 6379
+    #…Ë÷√jedis¡¨Ω”≥ÿ
+    jedis:
+      pool:
+        max-active: 50
+        min-idle: 20
+mybatis:
+  mapper-locations: classpath:mapping/*.xml
