@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/niukewang/arithmetic/arithmetic.iml" filepath="$PROJECT_DIR$/niukewang/arithmetic/arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-crawler/crawler-demo/crawler-demo.iml" filepath="$PROJECT_DIR$/web-crawler/crawler-demo/crawler-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/design-patterns-sample/design-patterns-sample.iml" filepath="$PROJECT_DIR$/design-patterns/design-patterns-sample/design-patterns-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/interview.iml" filepath="$PROJECT_DIR$/.idea/interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-scheduled-sample/spring-boot-starter-quartz/spring-boot-starter-quartz.iml" filepath="$PROJECT_DIR$/springboot-scheduled-sample/spring-boot-starter-quartz/spring-boot-starter-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-scheduled-sample/spring-boot-starter-super-scheduled/spring-boot-starter-super-scheduled.iml" filepath="$PROJECT_DIR$/springboot-scheduled-sample/spring-boot-starter-super-scheduled/spring-boot-starter-super-scheduled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-elasticsearch-sample/spring-data-elasticsearch-client/spring-data-elasticsearch-client.iml" filepath="$PROJECT_DIR$/springboot-elasticsearch-sample/spring-data-elasticsearch-client/spring-data-elasticsearch-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-elasticsearch-sample/spring-data-elasticsearch-repository/spring-data-elasticsearch-repository.iml" filepath="$PROJECT_DIR$/springboot-elasticsearch-sample/spring-data-elasticsearch-repository/spring-data-elasticsearch-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-amqp-sample/springboot-amqp-sample.iml" filepath="$PROJECT_DIR$/springboot-amqp-sample/springboot-amqp-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-security-sample/springboot-jwt-sample/springboot-jwt-sample.iml" filepath="$PROJECT_DIR$/springboot-security-sample/springboot-jwt-sample/springboot-jwt-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis-sample/springboot-redis-sample.iml" filepath="$PROJECT_DIR$/springboot-redis-sample/springboot-redis-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-scheduled-sample/springboot-scheduled-dynamic-sample/springboot-scheduled-dynamic-sample.iml" filepath="$PROJECT_DIR$/springboot-scheduled-sample/springboot-scheduled-dynamic-sample/springboot-scheduled-dynamic-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-security-sample/springboot-shiro-jwt-sample/springboot-shiro-jwt-sample.iml" filepath="$PROJECT_DIR$/springboot-security-sample/springboot-shiro-jwt-sample/springboot-shiro-jwt-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-security-sample/springboot-shiro-sample/springboot-shiro-sample.iml" filepath="$PROJECT_DIR$/springboot-security-sample/springboot-shiro-sample/springboot-shiro-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-safety/thread-safety-demo/thread-safety-demo.iml" filepath="$PROJECT_DIR$/thread-safety/thread-safety-demo/thread-safety-demo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-amqp-sample" />
+        <module name="arithmetic" />
+        <module name="spring-boot-starter-super-scheduled" />
+        <module name="springboot-redis-sample" />
+        <module name="springboot-shiro-jwt-sample" />
+        <module name="springboot-shiro-sample" />
+        <module name="springboot-jwt-sample" />
+        <module name="spring-data-elasticsearch-client" />
+        <module name="spring-data-elasticsearch-repository" />
+        <module name="spring-boot-starter-quartz" />
+        <module name="thread-safety-demo" />
+        <module name="design-patterns-sample" />
+        <module name="crawler-demo" />
+        <module name="springboot-scheduled-dynamic-sample" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="arithmetic" target="1.8" />
+      <module name="crawler-demo" target="1.8" />
+      <module name="design-patterns-sample" target="1.8" />
+      <module name="spring-boot-starter-quartz" target="1.8" />
+      <module name="spring-boot-starter-super-scheduled" target="1.8" />
+      <module name="spring-data-elasticsearch-client" target="1.8" />
+      <module name="spring-data-elasticsearch-repository" target="1.8" />
+      <module name="springboot-amqp-sample" target="1.8" />
+      <module name="springboot-jwt-sample" target="1.8" />
+      <module name="springboot-redis-sample" target="1.8" />
+      <module name="springboot-scheduled-dynamic-sample" target="1.8" />
+      <module name="springboot-shiro-jwt-sample" target="1.8" />
+      <module name="springboot-shiro-sample" target="1.8" />
+      <module name="thread-safety-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="arithmetic" options="-parameters" />
+      <module name="crawler-demo" options="-parameters" />
+      <module name="design-patterns-sample" options="-parameters" />
+      <module name="spring-boot-starter-quartz" options="-parameters" />
+      <module name="spring-boot-starter-super-scheduled" options="-parameters" />
+      <module name="spring-data-elasticsearch-client" options="-parameters" />
+      <module name="spring-data-elasticsearch-repository" options="-parameters" />
+      <module name="springboot-amqp-sample" options="-parameters" />
+      <module name="springboot-jwt-sample" options="-parameters" />
+      <module name="springboot-redis-sample" options="-parameters" />
+      <module name="springboot-scheduled-dynamic-sample" options="-parameters" />
+      <module name="springboot-shiro-jwt-sample" options="-parameters" />
+      <module name="springboot-shiro-sample" options="-parameters" />
+      <module name="thread-safety-demo" options="-parameters" />
+    </option>
+  </component>
+</project>
