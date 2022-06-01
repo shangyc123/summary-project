@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/seckill-backend/seckill-backend.iml" filepath="$PROJECT_DIR$/seckill-backend/seckill-backend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seckill-parent.iml" filepath="$PROJECT_DIR$/seckill-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/seckill-parent.iml" filepath="$PROJECT_DIR$/.idea/seckill-parent.iml" />
     </modules>
   </component>
 </project>

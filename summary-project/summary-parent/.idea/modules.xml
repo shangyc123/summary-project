@@ -3,9 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/control-center/summary-eureka-server-8761/summary-eureka-server-8761.iml" filepath="$PROJECT_DIR$/control-center/summary-eureka-server-8761/summary-eureka-server-8761.iml" />
-      <module fileurl="file://$PROJECT_DIR$/control-center/summary-eureka-server-8762/summary-eureka-server-8762.iml" filepath="$PROJECT_DIR$/control-center/summary-eureka-server-8762/summary-eureka-server-8762.iml" />
       <module fileurl="file://$PROJECT_DIR$/control-center/summary-gateway-9001/summary-gateway-9001.iml" filepath="$PROJECT_DIR$/control-center/summary-gateway-9001/summary-gateway-9001.iml" />
-      <module fileurl="file://$PROJECT_DIR$/summary-parent.iml" filepath="$PROJECT_DIR$/summary-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/summary-parent.iml" filepath="$PROJECT_DIR$/.idea/summary-parent.iml" />
     </modules>
   </component>
 </project>

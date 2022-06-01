@@ -6,22 +6,23 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/niukewang/arithmetic/pom.xml" />
+        <option value="$PROJECT_DIR$/web-crawler/crawler-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/thread-safety/thread-safety-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns/design-patterns-sample/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-amqp-sample/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-redis-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-security-sample/springboot-jwt-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-security-sample/springboot-shiro-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-security-sample/springboot-shiro-jwt-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-scheduled-sample/spring-boot-starter-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-scheduled-sample/spring-boot-starter-super-scheduled/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-scheduled-sample/springboot-scheduled-dynamic-sample/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-elasticsearch-sample/spring-data-elasticsearch-client/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-elasticsearch-sample/spring-data-elasticsearch-repository/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-scheduled-sample/spring-boot-starter-super-scheduled/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-scheduled-sample/spring-boot-starter-quartz/pom.xml" />
-        <option value="$PROJECT_DIR$/thread-safety/thread-safety-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-security-sample/springboot-shiro-sample/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-security-sample/springboot-jwt-sample/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-security-sample/springboot-shiro-jwt-sample/pom.xml" />
-        <option value="$PROJECT_DIR$/design-patterns/design-patterns-sample/pom.xml" />
-        <option value="$PROJECT_DIR$/niukewang/arithmetic/pom.xml" />
-        <option value="$PROJECT_DIR$/crawler/crawler-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mail-sample/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
